@@ -1,5 +1,5 @@
 # oop_basic
-It is my tip.
+It is my tip for OOP principles. See `for_php_resume.rb` file
 ------------------------
 TASK:
 Написать класс Cat, который наследуется от класcа Animal.
